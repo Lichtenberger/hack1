@@ -1,5 +1,5 @@
 import { Client, Databases, ID } from "appwrite";
-import { PROJECT_ID, DATABASE_ID, COLLECTION_ID } from './hidden.js';
+import { PROJECT_ID, DATABASE_ID, COLLECTION_ID } from './shhh.js';
 
 const client = new Client()
     .setEndpoint('https://cloud.appwrite.io/v1')
